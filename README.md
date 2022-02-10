@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradleyjennings.
 - 👀 I’m a Software Tester specialising in Test Automation.
-- 🌱 I’m currently learning about Typescript.
+- 🌱 I’m currently learning about TypeScript.
 - 📫 How to reach me - [Bradley Jennings](https://www.linkedin.com/in/bradley-jennings-b55a14181/) on LinkedIn.
 
 <!---
