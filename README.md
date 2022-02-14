@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradleyjennings.
+- 👋 Hi, I’m [@bradleyjennings](https://github.com/bradleyjennings).
 - 👀 I’m a Technical Tester specialising in Test Automation.
 - 🌱 I’m currently learning about TypeScript.
 - 📫 How to reach me - [Bradley Jennings](https://www.linkedin.com/in/bradley-jennings-b55a14181/) on LinkedIn.
