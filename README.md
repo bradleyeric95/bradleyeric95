@@ -1,5 +1,4 @@
 - 👋 Hi, I’m [@bradleyjennings](https://github.com/bradleyjennings).
-- 💻 You can find my website [here](http://www.bradleyjennings.co.uk).
 - 👀 I’m a QA Engineer specialising in Test Automation.
 - 🌱 I’m currently learning about Terraform.
 - 📫 How to reach me - [Bradley Jennings](https://www.linkedin.com/in/bradley-jennings-b55a14181/) on LinkedIn.
