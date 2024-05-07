@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@bradleyeric95](https://github.com/bradleyeric95).
 - 👀 I’m a QA Engineer specialising in Test Automation.
-- 🌱 I’m currently learning about bUnit.
+- 🌱 I’m currently learning k6 and Go.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bradley-alderton-28789a264).
 
 <!---
